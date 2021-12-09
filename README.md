@@ -19,7 +19,7 @@ WHURL=discord webhook url
 - replace host with the server ip you want the bot to connect to (should be lostify.net)
 - replace token with the Discord bot token you want the discord bot to be logged in
 - replace discord webhook url with the webhook you want to send ingame chat messages to send messages\
-(implemented anti bot messages)\
+(implemented anti bot messages)
 
 # Usage
 
