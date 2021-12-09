@@ -14,14 +14,14 @@ discordToken=token
 WHURL=discord webhook url
 ```
 
-replace email for the email of your minecraft account
-replace password with the password of your minecraft account
-replace host with the server ip you want the bot to connect to (should be lostify.net)
-replace token with the Discord bot token you want the discord bot to be logged in
-replace discord webhook url with the webhook you want to send ingame chat messages to
-(implemented anti bot messages)
+- replace email for the email of your minecraft account
+- replace password with the password of your minecraft account
+- replace host with the server ip you want the bot to connect to (should be lostify.net)
+- replace token with the Discord bot token you want the discord bot to be logged in
+- replace discord webhook url with the webhook you want to send ingame chat messages to send messages\
+(implemented anti bot messages)\
 
-#usage
+# Usage
 
 
 
